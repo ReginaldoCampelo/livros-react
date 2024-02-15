@@ -1,46 +1,29 @@
-# Getting Started with Create React App
+# Sistema de Gerenciamento de Livros com React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📚 Sobre o Projeto
+Bem-vindo ao sistema de gerenciamento de livros, um projeto prático desenvolvido com React. Este repositório apresenta a implementação de uma aplicação web moderna focada em gerenciar livros. Utilizando React, React Router, e Bootstrap, este projeto visa oferecer uma experiência interativa na gestão de livros, combinando um design responsivo com funcionalidades dinâmicas.
 
-## Available Scripts
+## 🎯 Objetivos da Prática
+O principal objetivo deste projeto é desenvolver habilidades em:
 
-In the project directory, you can run:
+- **Desenvolvimento de Aplicações Web com React:** Utilizando componentes React para criar uma aplicação web interativa e dinâmica.
+- **Navegação e Rotas com React Router:** Implementando navegação entre diferentes partes da aplicação de forma eficiente.
+- **Estilização com Bootstrap:** Aplicando o framework Bootstrap para garantir um design responsivo e moderno.
+- **Gestão de Estado:** Gerenciando o estado da aplicação para refletir as mudanças de forma reativa.
 
-### `npm start`
+## 🌐 Recursos do Sistema
+- **Design Responsivo:** Adaptável para diferentes tamanhos de tela, assegurando uma ótima visualização tanto em dispositivos móveis quanto em desktops.
+- **Interface Intuitiva:** Facilita a navegação e o gerenciamento de livros, com uma disposição clara e atraente das informações.
+- **Cadastro e Listagem de Livros:** Permite cadastrar novos livros e visualizar a lista de livros cadastrados.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🛠️ Tecnologias Utilizadas
+- **React:** Para a construção da interface do usuário com componentes reutilizáveis.
+- **React Router:** Para o gerenciamento de navegação e rotas na aplicação.
+- **Bootstrap:** Framework CSS para desenvolver componentes responsivos e estilizados de maneira ágil.
+- **react-toastify:** Para exibir notificações e feedbacks interativos ao usuário.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🔍 Visualização do Projeto
+Para visualizar o sistema, você pode acessar o [https://livros-react-estacio.netlify.app/] ou clonar o repositório e executar `npm start` para rodar localmente.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📚 Aprendizado e Desenvolvimento
+Este projeto é uma demonstração prática dos conhecimentos adquiridos em desenvolvimento web com React, evidenciando a aplicação de conceitos importantes como componentização, rotas, gestão de estado e estilização.
